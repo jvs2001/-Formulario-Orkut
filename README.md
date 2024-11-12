@@ -8,4 +8,4 @@
 
 Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
 
-[Acesse aqui](https://github.com/jvs2001/-Formulario-Orkut) 
+[Acesse aqui](https://jvs2001.github.io/-Formulario-Orkut/) 
